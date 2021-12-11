@@ -1,5 +1,5 @@
 ### Hi there 👋
-Just another Lezizijiang
+Just another [Lezizijiang](https://github.com/lezizijiang)
 <!--
 **lezizijiang2/lezizijiang2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
